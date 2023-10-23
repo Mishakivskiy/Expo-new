@@ -23,5 +23,6 @@ const styles = StyleSheet.create({
     color: 'grey',
     opacity: .3,
     padding: 10,
+    top: 10,
   },
 });
